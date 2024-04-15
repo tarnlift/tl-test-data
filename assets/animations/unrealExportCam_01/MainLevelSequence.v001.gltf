@@ -1,0 +1,918 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.3.2"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 101,
+			"type": "SCALAR",
+			"componentType": 5126,
+			"min": [ 0 ],
+			"max": [ 3.33333325 ]
+		},
+		{
+			"bufferView": 1,
+			"count": 101,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 2,
+			"count": 101,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 101,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 101,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 101,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 101,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 7,
+			"count": 288,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 8,
+			"count": 90,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -5.00000286, -0.500000298, -4.99999905 ],
+			"max": [ 5, 3.06161647e-16, 5.00000048 ]
+		},
+		{
+			"bufferView": 9,
+			"count": 90,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 90,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 90,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 90,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 13,
+			"count": 11904,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 14,
+			"count": 2208,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -40.9599991, -40.9599991, -40.9599991 ],
+			"max": [ 40.9599991, 40.9599991, 40.9599991 ]
+		},
+		{
+			"bufferView": 15,
+			"count": 2208,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 16,
+			"count": 2208,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 2208,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 18,
+			"count": 2208,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 19,
+			"count": 2448,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 20,
+			"count": 683,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.419965386, -0.000505545002, -0.404677123 ],
+			"max": [ 0.403037697, 1.15381229, 0.404926151 ]
+		},
+		{
+			"bufferView": 21,
+			"count": 683,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 22,
+			"count": 683,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 23,
+			"count": 683,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 24,
+			"count": 4791,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 25,
+			"count": 930,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.0825398415, -5.19999958e-07, -0.122906931 ],
+			"max": [ 0.0822286382, 0.102718733, 0.101211295 ]
+		},
+		{
+			"bufferView": 26,
+			"count": 930,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 27,
+			"count": 930,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 28,
+			"count": 930,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 29,
+			"count": 930,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 30,
+			"count": 4230,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 31,
+			"count": 788,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.0500034355, 0.101323761, -0.0494563803 ],
+			"max": [ 0.0494585596, 0.141608953, 0.0494613126 ]
+		},
+		{
+			"bufferView": 32,
+			"count": 788,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 33,
+			"count": 788,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 34,
+			"count": 788,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 35,
+			"count": 788,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"animations": [
+		{
+			"name": "MainLevelSequence_0",
+			"channels": [
+				{
+					"sampler": 0,
+					"target":
+					{
+						"node": 18,
+						"path": "translation"
+					}
+				},
+				{
+					"sampler": 1,
+					"target":
+					{
+						"node": 18,
+						"path": "rotation"
+					}
+				},
+				{
+					"sampler": 2,
+					"target":
+					{
+						"node": 18,
+						"path": "scale"
+					}
+				},
+				{
+					"sampler": 3,
+					"target":
+					{
+						"node": 17,
+						"path": "translation"
+					}
+				},
+				{
+					"sampler": 4,
+					"target":
+					{
+						"node": 17,
+						"path": "rotation"
+					}
+				},
+				{
+					"sampler": 5,
+					"target":
+					{
+						"node": 17,
+						"path": "scale"
+					}
+				}
+			],
+			"samplers": [
+				{
+					"input": 0,
+					"output": 1
+				},
+				{
+					"input": 0,
+					"output": 2
+				},
+				{
+					"input": 0,
+					"output": 3
+				},
+				{
+					"input": 0,
+					"output": 4
+				},
+				{
+					"input": 0,
+					"output": 5
+				},
+				{
+					"input": 0,
+					"output": 6
+				}
+			]
+		}
+	],
+	"buffers": [
+		{
+			"uri": "MainLevelSequence.v001.bin",
+			"byteLength": 313200
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 404
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1212,
+			"byteOffset": 404
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1616,
+			"byteOffset": 1616
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1212,
+			"byteOffset": 3232
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1212,
+			"byteOffset": 4444
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1616,
+			"byteOffset": 5656
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1212,
+			"byteOffset": 7272
+		},
+		{
+			"buffer": 0,
+			"byteLength": 288,
+			"byteOffset": 8484,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1080,
+			"byteOffset": 8772,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1080,
+			"byteOffset": 9852,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1440,
+			"byteOffset": 10932,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 720,
+			"byteOffset": 12372,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 720,
+			"byteOffset": 13092,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 23808,
+			"byteOffset": 13812,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26496,
+			"byteOffset": 37620,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26496,
+			"byteOffset": 64116,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 35328,
+			"byteOffset": 90612,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 17664,
+			"byteOffset": 125940,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 17664,
+			"byteOffset": 143604,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4896,
+			"byteOffset": 161268,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8196,
+			"byteOffset": 166164,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8196,
+			"byteOffset": 174360,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10928,
+			"byteOffset": 182556,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5464,
+			"byteOffset": 193484,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 9582,
+			"byteOffset": 198948,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 11160,
+			"byteOffset": 208532,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 11160,
+			"byteOffset": 219692,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 14880,
+			"byteOffset": 230852,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7440,
+			"byteOffset": 245732,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7440,
+			"byteOffset": 253172,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8460,
+			"byteOffset": 260612,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 9456,
+			"byteOffset": 269072,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 9456,
+			"byteOffset": 278528,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 12608,
+			"byteOffset": 287984,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6304,
+			"byteOffset": 300592,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6304,
+			"byteOffset": 306896,
+			"target": 34962
+		}
+	],
+	"cameras": [
+		{
+			"name": "CameraComponent",
+			"type": "perspective",
+			"perspective":
+			{
+				"aspectRatio": 1.77777779,
+				"yfov": 0.377315968,
+				"znear": 0.099999994
+			}
+		}
+	],
+	"images": [
+		{
+			"uri": "DefaultMaterial_BaseColor.png"
+		},
+		{
+			"uri": "DefaultMaterial_MetallicRoughness.png"
+		},
+		{
+			"uri": "DefaultMaterial_Normal.png"
+		},
+		{
+			"uri": "MaterialInstanceDynamic_0_SkySphereMesh_BaseColor.png"
+		},
+		{
+			"uri": "M_Chair_BaseColor.png"
+		},
+		{
+			"uri": "M_Chair_MetallicRoughness.png"
+		},
+		{
+			"uri": "T_Chair_N.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "DefaultMaterial",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 1
+				}
+			},
+			"normalTexture":
+			{
+				"index": 2
+			}
+		},
+		{
+			"name": "MaterialInstanceDynamic_0_SkySphereMesh",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 3,
+					"texCoord": 1
+				}
+			},
+			"extensions":
+			{
+				"KHR_materials_unlit":
+				{
+				}
+			}
+		},
+		{
+			"name": "M_Chair",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 4
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 5
+				}
+			},
+			"normalTexture":
+			{
+				"index": 6
+			}
+		},
+		{
+			"name": "WorldGridMaterial",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 7
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 8
+				}
+			},
+			"normalTexture":
+			{
+				"index": 9
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "SM_Template_Map_Floor",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 8,
+						"NORMAL": 9,
+						"TANGENT": 10,
+						"TEXCOORD_0": 11,
+						"TEXCOORD_1": 12
+					},
+					"indices": 7,
+					"material": 0
+				}
+			]
+		},
+		{
+			"name": "SkySphereMesh",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 14,
+						"NORMAL": 15,
+						"TANGENT": 16,
+						"TEXCOORD_0": 17,
+						"TEXCOORD_1": 18
+					},
+					"indices": 13,
+					"material": 1
+				}
+			]
+		},
+		{
+			"name": "SM_Chair",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 20,
+						"NORMAL": 21,
+						"TANGENT": 22,
+						"TEXCOORD_0": 23
+					},
+					"indices": 19,
+					"material": 2
+				}
+			]
+		},
+		{
+			"name": "model_testGeo_teapotNoUDIM_separate_v001_body",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 25,
+						"NORMAL": 26,
+						"TANGENT": 27,
+						"TEXCOORD_0": 28,
+						"TEXCOORD_1": 29
+					},
+					"indices": 24,
+					"material": 3
+				}
+			]
+		},
+		{
+			"name": "model_testGeo_teapotNoUDIM_separate_v001_lid",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 31,
+						"NORMAL": 32,
+						"TANGENT": 33,
+						"TEXCOORD_0": 34,
+						"TEXCOORD_1": 35
+					},
+					"indices": 30,
+					"material": 3
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "Brush1",
+			"translation": [ -0.899999976, 0.199999988, 1.10000002 ]
+		},
+		{
+			"name": "Light Source",
+			"translation": [ 1, 5.69999981, -2 ],
+			"rotation": [ -0.31963855, -0.160196513, -0.361483008, 0.861102998 ],
+			"scale": [ 2.5, 2.5, 2.5 ],
+			"children": [ 2 ]
+		},
+		{
+			"name": "Light Source",
+			"rotation": [ -0, -0.707106829, 0, 0.707106769 ],
+			"extensions":
+			{
+				"KHR_lights_punctual":
+				{
+					"light": 0
+				}
+			}
+		},
+		{
+			"name": "InstancedFoliageActor"
+		},
+		{
+			"name": "Atmospheric Fog",
+			"translation": [ 0, -1000, 0 ]
+		},
+		{
+			"name": "Floor",
+			"translation": [ 0, 0.199999988, 0 ],
+			"mesh": 0
+		},
+		{
+			"name": "Sky Sphere",
+			"translation": [ -9.09494681e-15, 0.199999988, 0.307893395 ],
+			"children": [ 7 ]
+		},
+		{
+			"name": "SkySphereMesh",
+			"scale": [ 400, 400, 400 ],
+			"mesh": 1
+		},
+		{
+			"name": "SkyLight",
+			"translation": [ 0.207743526, 5.04748201, -0.309952676 ]
+		},
+		{
+			"name": "SphereReflectionCapture",
+			"translation": [ -0.109076537, 2.6686132, -0.0932865888 ],
+			"children": [ 10, 11 ]
+		},
+		{
+			"name": "DrawRadius0"
+		},
+		{
+			"name": "DrawRadius1"
+		},
+		{
+			"name": "DefaultPhysicsVolume0"
+		},
+		{
+			"name": "AbstractNavData-Default"
+		},
+		{
+			"name": "SM_Chair",
+			"translation": [ -1.29999995, 0.199999988, 1.19999993 ],
+			"rotation": [ 0, 0.258819073, -0, 0.965925932 ],
+			"mesh": 2
+		},
+		{
+			"name": "model_testGeo_teapotNoUDIM_separate_v001_body",
+			"translation": [ 0, 0.199999988, 0.299999982 ],
+			"mesh": 3
+		},
+		{
+			"name": "model_testGeo_teapotNoUDIM_separate_v001_lid",
+			"translation": [ 0, 0.199999988, 0.299999982 ],
+			"mesh": 4
+		},
+		{
+			"name": "cameraTarget",
+			"translation": [ -0.00697974116, 0.279692292, 0.293029577 ],
+			"rotation": [ -0.0494287796, -0.719565749, 0.0474688932, 0.691034496 ],
+			"children": [ 18 ]
+		},
+		{
+			"name": "CineCameraActor",
+			"translation": [ -0.854045689, 0.288002878, -0.0330281816 ],
+			"rotation": [ 7.4505806e-09, -0, -0.168923423, 0.985629201 ],
+			"children": [ 19 ]
+		},
+		{
+			"name": "CameraComponent",
+			"children": [ 20 ]
+		},
+		{
+			"name": "CameraComponent",
+			"rotation": [ -0, -0.707106829, 0, 0.707106769 ],
+			"camera": 0
+		},
+		{
+			"name": "MainLevelSequence",
+			"translation": [ -0.199999988, 0.299999982, -1.19999993 ]
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Main",
+			"nodes": [ 0, 1, 3, 4, 5, 6, 8, 9, 12, 13, 14, 15, 16, 17, 21 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "DefaultMaterial_BaseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "DefaultMaterial_MetallicRoughness",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "DefaultMaterial_Normal",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "MaterialInstanceDynamic_0_SkySphereMesh_BaseColor",
+			"sampler": 0,
+			"source": 3
+		},
+		{
+			"name": "M_Chair_BaseColor",
+			"sampler": 0,
+			"source": 4
+		},
+		{
+			"name": "M_Chair_MetallicRoughness",
+			"sampler": 0,
+			"source": 5
+		},
+		{
+			"name": "T_Chair_N",
+			"sampler": 0,
+			"source": 6
+		},
+		{
+			"name": "WorldGridMaterial_BaseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "WorldGridMaterial_MetallicRoughness",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "WorldGridMaterial_Normal",
+			"sampler": 0,
+			"source": 2
+		}
+	],
+	"extensions":
+	{
+		"KHR_lights_punctual":
+		{
+			"lights": [
+				{
+					"name": "Light Source",
+					"type": "directional",
+					"intensity": 3.14159274
+				}
+			]
+		}
+	},
+	"extensionsUsed": [
+		"KHR_materials_unlit",
+		"KHR_lights_punctual"
+	]
+}
