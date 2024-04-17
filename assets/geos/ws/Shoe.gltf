@@ -37,7 +37,7 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":100862,
+			"count":100566,
 			"max":[
 				0.05399036779999733,
 				0.1485016644001007,
@@ -53,13 +53,13 @@
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":100862,
+			"count":100566,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":100862,
+			"count":100566,
 			"type":"VEC2"
 		},
 		{
@@ -72,32 +72,32 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":1210344,
+			"byteLength":1206792,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":1210344,
-			"byteOffset":1210344,
+			"byteLength":1206792,
+			"byteOffset":1206792,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":806896,
-			"byteOffset":2420688,
+			"byteLength":804528,
+			"byteOffset":2413584,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2372304,
-			"byteOffset":3227584,
+			"byteOffset":3218112,
 			"target":34963
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":5599888,
+			"byteLength":5590416,
 			"uri":"Shoe.bin"
 		}
 	]
